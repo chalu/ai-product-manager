@@ -18,4 +18,4 @@ The impact of this includes timely access to personalised and affordable diagnos
 
 ## Outcome 
 
-I made the case for an [AI mobile product](/portfolio) that provides high quality offline machine-learning powered diagnosis of LRTI to clinicians, community health care givers, and patients.
+I made the case for an [AI mobile product](/nanodegree/portfolio) that provides high quality offline machine-learning powered diagnosis of LRTI to clinicians, community health care givers, and patients.
