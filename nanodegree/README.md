@@ -1,5 +1,9 @@
 # My AI Product Manager Nanodegree
 
+## Outcome 
+
+I made the case for an [AI mobile product](/nanodegree/portfolio) that provides high quality offline machine-learning powered diagnosis of LRTI to clinicians, community health care givers, and patients.
+
 ## What
 
 I [embarked on a journey](https://graduation.udacity.com/confirm/LM5RT9K) to learn how to evaluate the business value of an AI product. From building familiarity and fluency with common AI concepts, to scoping and building a diverse data set, all the way to training a model and evaluating its business impact. 
@@ -15,7 +19,3 @@ Poor access to health services and qualified personnel is a critical problem in 
 Machine Learning promises profund value in healthcare since it can power a product or service that combines very high quality LRTI prediction (diagnosis) and complementary medical advisory, delivered directly to patients or aid clinicians and semi-skilled caregivers provide scalable care without compromising quality.
 
 The impact of this includes timely access to personalised and affordable diagnosis and treatment of LRTI, even for Africa’s poor patients, while aiding clinicians and driving overall ROI.
-
-## Outcome 
-
-I made the case for an [AI mobile product](/nanodegree/portfolio) that provides high quality offline machine-learning powered diagnosis of LRTI to clinicians, community health care givers, and patients.
